@@ -1,5 +1,5 @@
-__author__ = "Jing Gao"
-__copyright__ = "Copyright (C) 2018 Jing Gao"
+__author__ = "Zhouxiang Meng"
+__copyright__ = "Copyright (C) 2018 Zhouxiang Meng"
 __license__ = "Public Domain"
 __version__ = "3.2"
 
@@ -201,7 +201,7 @@ for url in url_list:
     pb = ProgressBar()
     os.system('clear')
     print pb(i-99)
-    print 'Author: Jing Gao\n', 'Copyright (C) 2018 Jing Gao\n', 'License: Public Domain\n', 'Version: 3.2'
+    print 'Author: Zhouxiang Meng\n', 'Copyright (C) 2018 Zhouxiang Meng\n', 'License: Public Domain\n', 'Version: 3.2'
     getinfo(url)
     
       
